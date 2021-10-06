@@ -1,0 +1,9 @@
+INSTALL
+
+1. Open the form you would like to add the message box too.
+2. Go to the soultion explorer, right click refrences, go to projects tab and browse
+3. Add the provided dll, and double click to check it before cliking ok. 
+4. Save the file, and restart visual studio. 
+
+If messagebox does not appear in your toolbox, you'll have to make sure to add it via
+right clicking on the tool box, choose items, and message box should be displayed there. 
