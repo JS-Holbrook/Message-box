@@ -7,3 +7,9 @@ INSTALL
 
 If messagebox does not appear in your toolbox, you'll have to make sure to add it via
 right clicking on the tool box, choose items, and message box should be displayed there. 
+
+USE
+
+The composite control consits of a label, a textbox, and a button. You can write to the label and textbox through a title and subdesc property. 
+I made the button so that I can ignore messages I don't want to see. It's just using a bool, and when the button is pressed the button's value is 
+assigned true or false. 
